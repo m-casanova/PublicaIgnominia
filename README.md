@@ -1,4 +1,5 @@
 # Publica Ignominia
+- Versione 1.105: sistemazione varianti _a_ (__ss01__), _g_ (__ss02__) e _l_ (__ss03__).
 - Versione 1.0: versione iniziale.
 
 Per maggiori informazioni e per testare il font, vedere la [pagina interattiva](https://m-casanova.github.io/PublicaIgnominia/).
@@ -28,3 +29,5 @@ Il font variabile è rilasciato nei formati WOFF2 e TTF con licenza OFL 1.1.
 ## Opentype
 
 ![image](images/publicaignominia2.jpg)
+
+![image](images/publicaignominia4.jpg)
