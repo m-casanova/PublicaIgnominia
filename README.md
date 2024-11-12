@@ -22,8 +22,6 @@ Per ottenere correttamente il corsivo con Chrome e Opera, utilizzare il seguente
 
 _Publica Ignominia_ è un font variabile derivato da _[Public Sans](https://github.com/uswds/public-sans)_ (con alcune modifiche); il font _Public Sans_ deriva da _[Libre Franklin](https://github.com/impallari/Libre-Franklin)_.
 
-![image](images/publicaignominia3.jpg)
-
 Il font variabile è rilasciato nei formati WOFF2 e TTF con licenza OFL 1.1.
 
 ## Opentype
@@ -31,3 +29,5 @@ Il font variabile è rilasciato nei formati WOFF2 e TTF con licenza OFL 1.1.
 ![image](images/publicaignominia2.jpg)
 
 ![image](images/publicaignominia4.jpg)
+
+![image](images/publicaignominia3.jpg)
