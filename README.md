@@ -1,4 +1,5 @@
 # Publica Ignominia
+- Versione 1.112: aggiunta di alcuni caratteri (‖ ← ↑ → ↓).
 - Versione 1.107: fix nomi dei font.
 - Versione 1.105: sistemazione varianti _a_ (__ss01__), _g_ (__ss02__) e _l_ (__ss03__).
 - Versione 1.0: versione iniziale.
