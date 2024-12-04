@@ -1,4 +1,5 @@
 # Publica Ignominia
+- Versione 1.158: fix % ‰ ‱.
 - Versione 1.155: fix crenatura per numeri (dnum, numr).
 - Versione 1.153: fix frazioni, dnom, numr, 1.pnum.
 - Versione 1.121: aggiunta e sistemazione di alcuni caratteri (compreso zero tagliato).
