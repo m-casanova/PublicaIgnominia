@@ -1,4 +1,5 @@
 # Publica Ignominia
+- Versione 1.153: fix frazioni, dnom, numr, 1.pnum.
 - Versione 1.121: aggiunta e sistemazione di alcuni caratteri (compreso zero tagliato).
 - Versione 1.112: aggiunta di alcuni caratteri (‖ ← ↑ → ↓).
 - Versione 1.107: fix nomi dei font.
