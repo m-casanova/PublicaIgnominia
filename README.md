@@ -1,4 +1,5 @@
 # Publica Ignominia
+- Versione 1.165: revisione generale della larghezza dei caratteri combinati.
 - Versione 1.159: fix larghezza caratteri.
 - Versione 1.158: fix % ‰ ‱.
 - Versione 1.155: fix crenatura per numeri (dnum, numr).
